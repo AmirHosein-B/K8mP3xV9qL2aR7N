@@ -1,5 +1,5 @@
-vless://c9a1e62f-427d-41eb-bc9d-5f8834e86fc7@xn-de.dbsll.ir:20018?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%9A%80%20Irancell%20%28TCP%29%20%F0%9F%87%A9%F0%9F%87%AA 
-vless://c9a1e62f-427d-41eb-bc9d-5f8834e86fc7@xn-fin.onlinewebsite24.ir:20018?security=none&type=tcp&headerType=http&path=%2F&host=status.play.google.com#%F0%9F%9A%80%20Irancell%20%28TCP%29%20%F0%9F%87%AB%F0%9F%87%AE 
-vless://c9a1e62f-427d-41eb-bc9d-5f8834e86fc7@ip3.dbsll.ir:2095?security=none&type=httpupgrade&headerType=&path=%2F%3Fed%3D2048&host=xn-deplay.google.com.dbsll.ir#All-Net%20%28HTTP%29%20%F0%9F%87%A9%F0%9F%87%AA%20 
-vless://c9a1e62f-427d-41eb-bc9d-5f8834e86fc7@ip3.dbsll.ir:2095?security=none&type=httpupgrade&headerType=&path=%2F%3Fed%3D2048&host=xn-fin2.onlinewebsite24.ir.#All-Net%20%28HTTP%29%20%F0%9F%87%AB%F0%9F%87%AE
-vless://c9a1e62f-427d-41eb-bc9d-5f8834e86fc7@ip3.dbsll.ir:2083?security=tls&type=ws&headerType=&path=%2F%3Fed%3D2048&host=xn-de2.dbsll.ir.&sni=xn-de2.dbsll.ir.&fp=firefox&alpn=h2%2Chttp%2F1.1#All-Net%20%28CDN%29%20%F0%9F%87%A9%F0%9F%87%AA%20
+vless://09ff56a7-dfeb-4fce-8549-3eb2c1245a9c@xn-de.dbsll.ir:20018?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%9A%80%20Irancell%20%28TCP%29%20%F0%9F%87%A9%F0%9F%87%AA 
+vless://09ff56a7-dfeb-4fce-8549-3eb2c1245a9c@xn-fin.onlinewebsite24.ir:20018?security=none&type=tcp&headerType=http&path=%2F&host=status.play.google.com#%F0%9F%9A%80%20Irancell%20%28TCP%29%20%F0%9F%87%AB%F0%9F%87%AE 
+vless://09ff56a7-dfeb-4fce-8549-3eb2c1245a9c@ip3.dbsll.ir:2095?security=none&type=httpupgrade&headerType=&path=%2F%3Fed%3D2048&host=xn-deplay.google.com.dbsll.ir#All-Net%20%28HTTP%29%20%F0%9F%87%A9%F0%9F%87%AA%20 
+vless://09ff56a7-dfeb-4fce-8549-3eb2c1245a9c@ip3.dbsll.ir:2095?security=none&type=httpupgrade&headerType=&path=%2F%3Fed%3D2048&host=xn-fin2.onlinewebsite24.ir.#All-Net%20%28HTTP%29%20%F0%9F%87%AB%F0%9F%87%AE
+vless://09ff56a7-dfeb-4fce-8549-3eb2c1245a9c@ip3.dbsll.ir:2083?security=tls&type=ws&headerType=&path=%2F%3Fed%3D2048&host=xn-de2.dbsll.ir.&sni=xn-de2.dbsll.ir.&fp=firefox&alpn=h2%2Chttp%2F1.1#All-Net%20%28CDN%29%20%F0%9F%87%A9%F0%9F%87%AA%20
