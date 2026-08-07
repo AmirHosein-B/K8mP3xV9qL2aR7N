@@ -1,9 +1,9 @@
-vless://ba6915f1-2912-415c-987c-5e2e8deedd13@alma.lorqina.ir:2095?path=%2F&security=none&encryption=none&host=alm.lorqina.ir&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA
-vless://ba6915f1-2912-415c-987c-5e2e8deedd13@alm.lorqina.ir:49530?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA*
-vless://ba6915f1-2912-415c-987c-5e2e8deedd13@ulk.lorqina.ir:40813?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
-vless://ba6915f1-2912-415c-987c-5e2e8deedd13@can.lorqina.ir:15029?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6
-vless://ba6915f1-2912-415c-987c-5e2e8deedd13@ulkk.lorqina.ir:2095?path=%2F&security=none&encryption=none&host=ulk.lorqina.ir&type=httpupgrade#%F0%9F%87%AC%F0%9F%87%A7*
-vless://ba6915f1-2912-415c-987c-5e2e8deedd13@cann.lorqina.ir:2095?path=%2F&security=none&encryption=none&host=can.lorqina.ir&type=httpupgrade#%F0%9F%87%A8%F0%9F%87%A6*
+vless://ba6915f1-2912-415c-987c-5e2e8deedd13@alma.lorqina.ir:2095?path=%2F&security=none&encryption=none&host=galm.lorqina.ir&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA*
+vless://ba6915f1-2912-415c-987c-5e2e8deedd13@galm.lorqina.ir:49530?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA**
+vless://ba6915f1-2912-415c-987c-5e2e8deedd13@okb.lorqina.ir:40813?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7*
+vless://ba6915f1-2912-415c-987c-5e2e8deedd13@ulkk.lorqina.ir:2095?path=%2F&security=none&encryption=none&host=okb.lorqina.ir&type=httpupgrade#%F0%9F%87%AC%F0%9F%87%A7**
+vless://ba6915f1-2912-415c-987c-5e2e8deedd13@hc.lorqina.ir:15029?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6*
+vless://ba6915f1-2912-415c-987c-5e2e8deedd13@cann.lorqina.ir:2095?path=%2F&security=none&encryption=none&host=hc.lorqina.ir&type=httpupgrade#%F0%9F%87%A8%F0%9F%87%A6**
 vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#%F0%9F%87%B2%F0%9F%87%BE2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODc4OTk4OC04ODdlLTRlNDEtODNjZC0yN2JiZmI3OTk5YWQ@hg1.levikogjgfdd.ir:40028#%F0%9F%87%B9%F0%9F%87%BC2
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#%F0%9F%87%B8%F0%9F%87%AC2
